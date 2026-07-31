@@ -1,0 +1,56 @@
+# 💻 Soluções de Maratona de Programação
+
+Este repositório reúne minhas soluções para problemas de diferentes plataformas de programação competitiva e prática de algoritmos.
+
+O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmos e estruturas de dados e desenvolver habilidades de resolução de problemas.
+
+## 📚 Plataformas
+
+Atualmente:
+
+* 📂 Beecrowd
+
+Futuramente pretendo adicionar soluções de outras plataformas, como:
+
+* Codeforces
+* CodeWars
+* LeetCode
+
+## 🛠️ Linguagens
+
+Atualmente:
+
+* C
+
+No futuro, pretendo variar as linguagens nas soluções.
+
+## 📁 Estrutura
+
+
+├── beecrowd/
+│   ├── 1000.c
+│   ├── 1001.c
+│   └── ...
+
+└── README.md
+
+Cada pasta corresponde a uma plataforma e contém as soluções organizadas por problema.
+
+## 🎯 Objetivos
+
+* Desenvolver raciocínio algorítmico;
+* Praticar estruturas de dados;
+* Aprimorar técnicas de resolução de problemas;
+* Construir uma base sólida para programação competitiva e entrevistas técnicas;
+* Registrar minha evolução ao longo dos estudos.
+
+## 📈 Progresso
+
+| Plataforma | Problemas Resolvidos |
+| ---------- | -------------------: |
+| Beecrowd   |                    7 |
+| Codeforces |                    0 |
+| CodeWars   |                    0 |
+| LeetCode   |                    0 |
+
+> O progresso será atualizado conforme novas soluções forem adicionadas.
