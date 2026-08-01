@@ -35,7 +35,7 @@ done
 
 TODAY=$(date +"%d %b %Y")
 
-BLOCK=$(printf "## 📊 Progress\n\n\`\`\`text\n🟢 Beecrowd\n\n${OUTPUT}\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🏆 Total Solved: ${TOTAL}\n🕒 Last Update: ${TODAY}\n\`\`\`")
+BLOCK=$(printf "## 📊 Progresso\n\n\`\`\`text\n🟢 Beecrowd\n\n${OUTPUT}\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🏆 Total: ${TOTAL}\n🕒 Última Atualização: ${TODAY}\n\`\`\`")
 
 awk '
 /<!-- START_PROGRESS -->/{
