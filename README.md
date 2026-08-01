@@ -47,11 +47,18 @@ Cada pasta corresponde a uma plataforma e contém as soluções organizadas por 
 
 ## 📈 Progresso
 <!-- START_PROGRESS -->
-| Plataforma | Problemas Resolvidos |
-| ---------- | -------------------: |
-| Beecrowd   |                    7 |
-| Codeforces |                    0 |
-| CodeWars   |                    0 |
-| LeetCode   |                    0 |
+## 📊 Progress
+
+```text
+🟢 Beecrowd
+
+🟢  Beginner .......... 7
+🟡  AD-HOC .......... 1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 Total Solved: 8
+🕒 Last Update: 01 Aug 2026
+```
 <!-- END_PROGRESS -->
 > O progresso será atualizado automaticamente conforme novas soluções são adicionadas.
