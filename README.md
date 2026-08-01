@@ -46,12 +46,12 @@ Cada pasta corresponde a uma plataforma e contém as soluções organizadas por 
 * Registrar minha evolução ao longo dos estudos.
 
 ## 📈 Progresso
-
+<!-- START_PROGRESS -->
 | Plataforma | Problemas Resolvidos |
 | ---------- | -------------------: |
 | Beecrowd   |                    7 |
 | Codeforces |                    0 |
 | CodeWars   |                    0 |
 | LeetCode   |                    0 |
-
+<!-- END_PROGRESS -->
 > O progresso será atualizado conforme novas soluções forem adicionadas.
