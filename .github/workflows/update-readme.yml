@@ -3,7 +3,7 @@ name: Update README Progress
 on:
   push:
     branches:
-      - maingit 
+      - main
 
 permissions:
   contents: write
@@ -16,6 +16,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Count solved problems
+      - name: Generate progress
         run: |
-          echo "Contando problemas..."
+          chmod +x .github/scripts/update_progress.sh
+          .github/scripts/update_progress.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update README progress"
+
+          git push
