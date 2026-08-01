@@ -3,6 +3,22 @@
 Este repositório reúne minhas soluções para problemas de diferentes plataformas de programação competitiva e prática de algoritmos.
 
 O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmos e estruturas de dados e desenvolver habilidades de resolução de problemas.
+<!-- START_PROGRESS -->
+## 📊 Progress
+
+```text
+🟢 Beecrowd
+
+🟢  Beginner .......... 7
+🟡  AD-HOC .......... 1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 Total Solved: 8
+🕒 Last Update: 01 Aug 2026
+```
+<!-- END_PROGRESS -->
+> O progresso é atualizado automaticamente conforme novas soluções são adicionadas.
 
 ## 📚 Plataformas
 
@@ -45,13 +61,5 @@ Cada pasta corresponde a uma plataforma e contém as soluções organizadas por 
 * Construir uma base sólida para programação competitiva e entrevistas técnicas;
 * Registrar minha evolução ao longo dos estudos.
 
-## 📈 Progresso
-<!-- START_PROGRESS -->
-| Plataforma | Problemas Resolvidos |
-| ---------- | -------------------: |
-| Beecrowd   |                    7 |
-| Codeforces |                    0 |
-| CodeWars   |                    0 |
-| LeetCode   |                    0 |
-<!-- END_PROGRESS -->
-> O progresso será atualizado automaticamente conforme novas soluções são adicionadas.
+
+
