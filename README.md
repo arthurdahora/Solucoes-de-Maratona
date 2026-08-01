@@ -54,4 +54,4 @@ Cada pasta corresponde a uma plataforma e contém as soluções organizadas por 
 | CodeWars   |                    0 |
 | LeetCode   |                    0 |
 <!-- END_PROGRESS -->
-> O progresso será atualizado conforme novas soluções forem adicionadas.
+> O progresso será atualizado automaticamente conforme novas soluções são adicionadas.
