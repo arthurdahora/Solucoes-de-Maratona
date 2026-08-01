@@ -4,7 +4,7 @@ Este repositório reúne minhas soluções para problemas de diferentes platafor
 
 O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmos e estruturas de dados e desenvolver habilidades de resolução de problemas.
 <!-- START_PROGRESS -->
-## 📊 Progresso
+## 📊 Progress
 
 ```text
 🟢 Beecrowd
