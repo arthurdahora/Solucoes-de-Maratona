@@ -45,13 +45,18 @@ No futuro, pretendo variar as linguagens nas soluções.
 ```text
 .
 ├── beecrowd/
-│   ├── 1000.c
-│   ├── 1001.c
+│   ├── 1 - Beginner em C/
+│   │   ├── 1000.c
+│   │   ├── 1001.c
+│   │   └── ...
+│   ├── 2 - AD-HOC em C/
+│   │   ├── ...
+│   │   └── ...
 │   └── ...
 └── README.md
 ```
 
-Cada pasta corresponde a uma plataforma e contém as soluções organizadas por problema.
+Cada pasta corresponde a uma plataforma e contém as soluções organizadas por nível de dificuldade.
 
 ## 🎯 Objetivos
 
