@@ -4,7 +4,7 @@ Este repositório reúne minhas soluções para problemas de diferentes platafor
 
 O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmos e estruturas de dados e desenvolver habilidades de resolução de problemas.
 <!-- START_PROGRESS -->
-## 📊 Progress
+## 📊 Progresso
 
 ```text
 🟢 Beecrowd
@@ -14,8 +14,8 @@ O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmo
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏆 Total Solved: 8
-🕒 Last Update: 01 Aug 2026
+🏆 Total: 8
+🕒 Última Atualização: 01 Aug 2026
 ```
 <!-- END_PROGRESS -->
 > O progresso é atualizado automaticamente conforme novas soluções são adicionadas.
@@ -45,13 +45,18 @@ No futuro, pretendo variar as linguagens nas soluções.
 ```text
 .
 ├── beecrowd/
-│   ├── 1000.c
-│   ├── 1001.c
+│   ├── 1 - Beginner em C/
+│   │   ├── 1000.c
+│   │   ├── 1001.c
+│   │   └── ...
+│   ├── 2 - AD-HOC em C/
+│   │   ├── ...
+│   │   └── ...
 │   └── ...
 └── README.md
 ```
 
-Cada pasta corresponde a uma plataforma e contém as soluções organizadas por problema.
+Cada pasta corresponde a uma plataforma e contém as soluções organizadas por nível de dificuldade.
 
 ## 🎯 Objetivos
 
