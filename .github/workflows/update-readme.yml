@@ -1,12 +1,21 @@
+# .github/workflows/update-readme.yml
 name: Update README Progress
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - 'beecrowd/**'                      # só roda quando soluções mudam
+      - '.github/scripts/update_progress.sh'
+      - '.github/workflows/update-readme.yml'
+  workflow_dispatch:                       # permite rodar na mão pela aba Actions
 
 permissions:
   contents: write
+
+concurrency:                               # evita dois runs colidindo no push
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -23,11 +32,18 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "Update README progress"
+          if git diff --cached --quiet; then
+            echo "Nada mudou no README, encerrando."
+            exit 0
+          fi
 
+          git commit -m "chore: atualiza progresso do README"
+
+          # se alguem tiver dado push nesse meio tempo, rebaseia antes de enviar
+          git pull --rebase --autostash origin main
           git push

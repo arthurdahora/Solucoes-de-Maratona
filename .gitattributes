@@ -1,0 +1,11 @@
+# Normaliza fim de linha: evita que o Windows suje o diff com CRLF
+* text=auto eol=lf
+
+# Scripts de shell PRECISAM ser LF, senao o runner Linux falha
+# com "bad interpreter: /bin/bash^M"
+*.sh text eol=lf
+
+# Binarios
+*.pdf binary
+*.png binary
+*.jpg binary

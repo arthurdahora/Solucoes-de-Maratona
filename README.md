@@ -9,13 +9,14 @@ O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmo
 ```text
 🟢 Beecrowd
 
-🟢  Beginner .......... 9
-🟡  AD-HOC .......... 1
+🟢 Beginner .................... 10
+🟡 AD-HOC ...................... 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏆 Total: 10
-🕒 Última Atualização: 12 Aug 2026
+🏆 Total: 12
+💻 C: 10   C++: 2
+🕒 Última atualização: 11 ago 2026
 ```
 <!-- END_PROGRESS -->
 > O progresso é atualizado automaticamente conforme novas soluções são adicionadas.
@@ -34,22 +35,21 @@ Futuramente pretendo adicionar soluções de outras plataformas, como:
 
 ## 🛠️ Linguagens
 
-Atualmente:
-
 * C
+* C++
 
-No futuro, pretendo variar as linguagens nas soluções.
+Pretendo acrescentar outras conforme avanço nos estudos.
 
 ## 📁 Estrutura
 
 ```text
 .
 ├── beecrowd/
-│   ├── 1 - Beginner em C/
+│   ├── 1- Beginner/
 │   │   ├── 1000.c
-│   │   ├── 1001.c
+│   │   ├── 1009.cpp
 │   │   └── ...
-│   ├── 2 - AD-HOC em C/
+│   ├── 2- AD-HOC/
 │   │   ├── ...
 │   │   └── ...
 │   └── ...
