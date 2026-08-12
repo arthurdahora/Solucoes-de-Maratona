@@ -9,13 +9,13 @@ O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmo
 ```text
 🟢 Beecrowd
 
-🟢  Beginner .......... 8
+🟢  Beginner .......... 9
 🟡  AD-HOC .......... 1
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏆 Total: 9
-🕒 Última Atualização: 05 Aug 2026
+🏆 Total: 10
+🕒 Última Atualização: 06 Aug 2026
 ```
 <!-- END_PROGRESS -->
 > O progresso é atualizado automaticamente conforme novas soluções são adicionadas.
