@@ -9,14 +9,14 @@ O objetivo é documentar minha evolução, consolidar conhecimentos em algoritmo
 ```text
 🟢 Beecrowd
 
-🟢 Beginner .................... 10
+🟢 Beginner .................... 14
 🟡 AD-HOC ...................... 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏆 Total: 12
-💻 C: 10   C++: 2
-🕒 Última atualização: 11 ago 2026
+🏆 Total: 16
+💻 C: 10   C++: 6
+🕒 Última atualização: 12 ago 2026
 ```
 <!-- END_PROGRESS -->
 > O progresso é atualizado automaticamente conforme novas soluções são adicionadas.
