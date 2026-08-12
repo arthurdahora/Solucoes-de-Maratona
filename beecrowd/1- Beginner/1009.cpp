@@ -12,6 +12,6 @@ int main()
     
     salario = salario + (vendas*0.15);
     
-    printf("TOTAL = R$%.2f\n", salario);
+    printf("TOTAL = R$ %.2f\n", salario);
     return 0;
 }
